@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gullranka",
+      "short": "En klassisk växt som är både tålig och lättplacerad.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "299",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/7418c98c/globalassets/catalog-images/7/gullranka-mps-mosstock-19cm-70-80cm/342f363b38a8c0497ef0e3de44ab3d55.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bergpalm",
+      "short": "Lättskött och populär grönväxt.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "89",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/6db53797/globalassets/catalog-images/7/bergpalm-1st-mps-12cm-30-40cm/fc88bb6891f72c37b360592e1f0245515.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Guldpalm",
+      "short": "Lättskött palm som ger rummet en frodig grönska.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "199",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/84f77917/globalassets/catalog-images/7/guldpalm-1st-mps-17cm-50-60cm/4a417a7b29fb61173f3fc5baa4b097512.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Liten monstera",
+      "short": "Lättskött slingrande eller klättrande grönväxt med dekorativt hålmönstrade blad.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "179",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/653b9140/globalassets/catalog-images/7/liten-monstera-mps-12cm-30-40cm/154448a4643c2b1d94afdb3c027c0ea0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Paraplyaralia",
+      "short": "Mycket lättskött och tålig växt.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "99",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/ad15b197/globalassets/catalog-images/7/paraplyaralia-nora-1st-mps-13cm-30-50cm/a400f07928680626cfdcaf736a4ae7ac3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tempelsköld",
+      "short": "Vacker alokasia med stora, hjärtformade, friskt gröna blad.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "129",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/9131b19c/globalassets/catalog-images/7/tempelskold-mps-12cm-25-35cm/d04f17579c3d799585b376705ac14daa.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pilspetsranka",
+      "short": "Lättskött och lättplacerad växt med brokiga, pilspetsformade blad.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "79",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/8d459d1a/globalassets/catalog-images/7/pilspetsranka-pixie-mps-12cm-20-30cm/8487b8b3a5fe4400060415e6199051a4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Murgröna",
+      "short": "En vintergrön klättrare som gör sig lika fint i fönstret inne som upp längs ett plank utomhus.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "29",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/8fb883c9/globalassets/catalog-images/7/murgrona-jacobine-svenskt-sigillfran-sverige-9cm-10-15cm/c44490f58046d11614368ea665ac0154.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Palettblad",
+      "short": "Snabbväxande, dekorativ och lättskött växt med mycket vackra blad.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "59",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/bfd326b3/globalassets/catalog-images/7/palettblad-alligator-alley-svenskt-sigillfran-sverige-12cm-25-35cm/e96a34943cb0b202cb9a8d8744172d72.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Papegojblomma",
+      "short": "Mycket spännande växt som blommar på höga stänglar med fantasifulla, starkt orangea och blåa blommor.",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quae nihil aut officia, dolores maxime recusandae repudiandae a nesciunt nostrum perferendis sint ex, ea laborum praesentium excepturi commodi? Architecto, dolores!",
+      "price": "119",
+      "image": "https://www.blomsterlandet.se/optimized/c-ProductDetailsSingle-Default-Lg1x/c0839e97/globalassets/catalog-images/7/papegojblomma-mps-12cm-30-40cm/05bc8355dfa4c87e4225e50132a2d0fe2.jpg"
+    }
+  ]
+}
